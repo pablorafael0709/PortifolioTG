@@ -47,18 +47,9 @@ Entrei na Fatec para conquistar meu diploma de ensino superior e, com ele, novas
 
 ## Projetos API
 
-| Semestre | Empresa parceira | Projeto |
-| --- | --- | --- |
-| [Primeiro Semestre – 2023-1](#primeiro-semestre) | Fatec-SJC | API-SCRUM, site de treinamento em Scrum |
-| [Segundo Semestre – 2023-2](#segundo-semestre) | Fatec-SJC | Code Wave, assistente virtual que responde perguntas sobre documentos |
-| [Terceiro Semestre – 2025-2](#terceiro-semestre) | Entrenova | Diagnóstico Inteligente de Treinamentos e Mercado |
-| [Quarto Semestre – 2024-2](#quarto-semestre) | JJM Log | Sistema JJM Log, integração de setores e atividades |
-| [Quinto Semestre – 2026-1](#quinto-semestre) | Pro4Tech | SyncDesk, atendimento, triagem e escalonamento de chamados |
-| [Sexto Semestre – 2026-2](#sexto-semestre) | Dom Rock | Synapse, simulação de regras de comissionamento com IA |
+<details>
+<summary>API-SCRUM - Site de treinamento na metodologia Scrum</summary>
 
----
-
-<a id="primeiro-semestre"></a>
 ### Primeiro Semestre – 2023-1
 
 #### Empresa Parceira
@@ -106,9 +97,11 @@ Nesse projeto atuei como desenvolvedor (Scrum Team) da equipe Hexabees. Desenvol
 
 Usei **proatividade** e **comunicação** logo na apresentação da primeira sprint. O grupo estava muito nervoso e ninguém queria apresentar, então eu me dispus a apresentar o trabalho da equipe, mesmo tendo que improvisar em cima da hora, e garanti que a entrega fosse mostrada ao cliente.
 
----
+</details>
 
-<a id="segundo-semestre"></a>
+<details>
+<summary>Code Wave - Assistente virtual que responde perguntas sobre documentos</summary>
+
 ### Segundo Semestre – 2023-2
 
 #### Empresa Parceira
@@ -159,9 +152,11 @@ Nesse projeto atuei como desenvolvedor (Dev Team) da equipe Code Wave e fui resp
 
 Usei **proatividade** e **solução de problemas** quando ninguém da equipe conseguia conectar as telas do front-end ao back-end. A dificuldade vinha da linguagem Java e das IDEs, já que as telas tinham sido feitas no NetBeans e o back-end estava em outro projeto. Assumi essa tarefa e fiz a integração, reorganizando o código em pacotes de conexão, modelos e telas e trazendo as telas dos colegas para o projeto do back-end, que passou a funcionar como uma aplicação única.
 
----
+</details>
 
-<a id="terceiro-semestre"></a>
+<details>
+<summary>Diagnóstico Inteligente - Plataforma de diagnóstico de treinamentos para a Entrenova</summary>
+
 ### Terceiro Semestre – 2025-2
 
 #### Empresa Parceira
@@ -210,9 +205,11 @@ Nesse projeto atuei como desenvolvedor (Team Member) da equipe DeepCode, no fron
 
 Usei **comunicação** e **empatia** em um momento em que a equipe estava perdida em relação ao que o cliente pedia e ao que iríamos entregar, e as reuniões ficaram tensas. Durante essas reuniões, procurei acalmar os colegas mais exaltados e manter a conversa produtiva. Com os ânimos mais calmos, conseguimos clarear as ideias e alinhar o que seria entregue.
 
----
+</details>
 
-<a id="quarto-semestre"></a>
+<details>
+<summary>Sistema JJM Log - Plataforma de integração de setores e atividades</summary>
+
 ### Quarto Semestre – 2024-2
 
 #### Empresa Parceira
@@ -264,9 +261,11 @@ Nesse projeto atuei como desenvolvedor (Dev Team) da equipe DriftOps, no front-e
 
 Usei o **trabalho em equipe** quando um colega do front-end estava com dificuldades em React e CSS. Como eu já vinha trabalhando nas páginas de perfil, tarefas e estatísticas, ajudei esse colega com o que tinha aprendido nelas, para que a parte dele também avançasse e o grupo mantivesse o ritmo das entregas.
 
----
+</details>
 
-<a id="quinto-semestre"></a>
+<details>
+<summary>SyncDesk - Sistema de atendimento, triagem e escalonamento de chamados</summary>
+
 ### Quinto Semestre – 2026-1
 
 #### Empresa Parceira
@@ -325,9 +324,11 @@ Nesse projeto atuei como desenvolvedor (Dev Team) no aplicativo mobile, em React
 
 Usei **proatividade** e **solução de problemas** logo que cheguei à equipe, quando a redefinição de senha do aplicativo estava atrasada. Estudei como implementar esse fluxo e entreguei as telas de "Esqueci minha senha", de nova senha e de confirmação, integradas à API, dentro do prazo da primeira sprint (05/04/2026).
 
----
+</details>
 
-<a id="sexto-semestre"></a>
+<details>
+<summary>Synapse - Simulação de regras de comissionamento com inteligência artificial</summary>
+
 ### Sexto Semestre – 2026-2
 
 #### Empresa Parceira
@@ -402,3 +403,5 @@ Nesse projeto atuei como desenvolvedor (Dev Team) e trabalhei nos três serviço
 #### Soft Skills
 
 Usei **resiliência** e **atitude positiva** na tarefa de extração do construto de exclusão a partir do texto (T-205), quando minha primeira entrega precisou ser corrigida depois da revisão. Reagi de forma profissional, conversei com o Scrum Master da equipe, Pedro Garcia, para entender exatamente qual era o problema e entreguei novamente. Nas correções, ajustei a extração para manter o núcleo da regra como o usuário o descreveu e preservar a condição de limiar ao habilitar a exclusão, além de restaurar a ordem de registro dos construtos.
+
+</details>
