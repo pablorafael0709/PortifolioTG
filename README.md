@@ -8,11 +8,11 @@ Meu nome é **Pablo Rafael Rosa da Silva**, tenho 26 anos e sou aluno do curso d
 
 ### Histórico acadêmico
 
-Antes da Fatec, estudei na Universidade de São Paulo (USP), no campus de Ribeirão Preto.
+Antes da Fatec, cursei Ciência da Computação na Universidade de São Paulo (USP), no campus de Ribeirão Preto.
 
 ### Motivação para entrar na Fatec
 
-Entrei na Fatec para conquistar meu diploma de ensino superior e, com ele, novas oportunidades na vida.
+Cheguei à área de tecnologia quase por acaso e consegui ingressar no curso de Ciência da Computação da USP, em Ribeirão Preto. Com a pandemia, porém, não consegui concluir a graduação e precisei deixar a cidade. Foi minha família que me recomendou a Fatec, e assim pude retomar os estudos na instituição, com o objetivo de conquistar meu diploma de ensino superior e, com ele, novas oportunidades na vida.
 
 ### Histórico profissional
 
